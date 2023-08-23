@@ -1,3 +1,3 @@
-theme: pages-themes/architect@v0.2.0
-title: [TEST]
-description: [This is a test page]
+theme: jekyll-theme-minimal
+title: TEST
+description: "This is a test page"
