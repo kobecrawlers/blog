@@ -25,4 +25,4 @@
 
 [セッティング概要に戻る](/blog/index_of_steering_settings)
 
-[次のセッティングを読む](/blog/steering_settings_sprint_invalidation)
+[次のセッティングを読む](/blog/steering_settings_spring_invalidation)
