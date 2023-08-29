@@ -19,7 +19,7 @@
 - 左右で最小半径が完全に一致する必要はありません。
 - 大口径タイヤは足回りに高負荷をかけます。
 - その結果、パーツ破損のリスクが高まります。
-- ユニバーサルジョイントをアルミ製に交換するなどの対策が考えられます。
+- [アルミ製ユニバーサルジョイント](https://www.amazon.co.jp/gp/product/B0BTHB4CYV/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=popcosme-22&linkCode=ur2&linkId=3c239cdc2d78dfa2bb3047337e268b05&camp=247&creative=1211)に交換するなどの対策が考えられます（Amazonが開きます）。
 
 **改造は自己責任で**
 
