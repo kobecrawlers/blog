@@ -11,8 +11,8 @@
 
 ![イーグル模型アルミ製ハイトルクサーボホーン](/blog/steering_settings/servo_horn/AL_HT_servo_horn.jpg "イーグル模型アルミ製ハイトルクサーボホーン")
 
-- イーグル模型のアルミ製ハイトルクサーボホーンです。
-- 記事を執筆時、約700円以下で購入できます。
+- イーグル模型の[アルミ製ハイトルクサーボホーン](https://www.amazon.co.jp/gp/product/B098JQMLYK/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=popcosme-22&linkCode=ur2&linkId=0935516457bc8d6f8d38a64c04a93254&camp=247&creative=1211)です（Amazonが開きます）。
+- 記事を執筆時、612円（30% off）で購入できます。
 - ３つ穴のうち、最もトルクがかかる位置に取り付けます。
 - 取り付けた後は、タイロッドの長さを調整する必要があります。
 - 平らな床で、最小半径が左右で近くなるまで調整します。
