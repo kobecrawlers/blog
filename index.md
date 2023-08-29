@@ -1,1 +1,1 @@
-[![ホーム](/blog/logo.002.png "Kobe Crawlers")](/blog)# 京商ミニッツ4x4セッティング、カスタマイズ、シェークダウン## 大口径タイヤでもよく曲がるセッティング[この記事を読む](/blog/index_of_steering_settings)## Shakedown
+[![ホーム](/blog/logo.002.png "Kobe Crawlers")](/blog)# 京商ミニッツ4x4セッティング、カスタマイズ、シェークダウン## 大口径タイヤでもよく曲がるセッティング[この記事を読む](/blog/steering_settings)## Shakedown
