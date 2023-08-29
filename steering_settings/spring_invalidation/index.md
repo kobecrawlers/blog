@@ -22,6 +22,6 @@
 
 **改造は自己責任で**
 
-[セッティング概要に戻る](/blog/steering_settings)
-
 [次のセッティングを読む](/blog/steering_settings/others)
+
+[セッティング概要に戻る](/blog/steering_settings)

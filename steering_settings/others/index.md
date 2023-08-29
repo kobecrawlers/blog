@@ -21,6 +21,6 @@
 
 **改造は自己責任で**
 
-[セッティング概要に戻る](/blog/steering_settings)
-
 [追加パーツについて](/blog/steering_settings/additional_parts)
+
+[セッティング概要に戻る](/blog/steering_settings)
