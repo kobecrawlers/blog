@@ -23,4 +23,4 @@
 
 [追加パーツについて](/blog/steering_settings/additional_parts)
 
-[セッティング概要に戻る](/blog/steering_settings)
+[セッティングTopに戻る](/blog/steering_settings)

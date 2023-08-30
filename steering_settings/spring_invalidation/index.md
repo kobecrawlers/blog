@@ -24,4 +24,4 @@
 
 [次のセッティングを読む](/blog/steering_settings/others)
 
-[セッティング概要に戻る](/blog/steering_settings)
+[セッティングTopに戻る](/blog/steering_settings)
