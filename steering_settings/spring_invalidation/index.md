@@ -1,6 +1,6 @@
-[![ホーム](/blog/logo.002.png "Kobe Crawlers")](/blog)
+[![ホーム](/logo.002.png "Kobe Crawlers")](/)
 
-[セッティング概要に戻る](/blog/steering_settings)
+[セッティング概要に戻る](/steering_settings)
 
 # 大口径タイヤでもよく曲がるミニッツ4x4セッティング
 ## その2 スプリング無効化
@@ -9,12 +9,12 @@
 - サスペンションのスプリングを無効化することで、曲がらない車体が曲がるようになります。
 - ハイトルクサーボホーンの取り付けとスプリング無効化を組み合わせることで、舵角が大きく改善することが期待できます。
 
-![スプリング無効化](/blog/steering_settings/spring_invalidation/spring_invalidation.jpg "スプリング無効化の外観")
+![スプリング無効化](/steering_settings/spring_invalidation/spring_invalidation.jpg "スプリング無効化の外観")
 
 - スプリングを無効化すると車体が沈み込みます。
 - スプリングを取り外したり、一部切断して短くすることで無効化できます。
 
-![タイロッドが水平に](/blog/steering_settings/spring_invalidation/horizontal_tierod.jpg "タイロッドが水平になりサーボの力が伝わる")
+![タイロッドが水平に](/steering_settings/spring_invalidation/horizontal_tierod.jpg "タイロッドが水平になりサーボの力が伝わる")
 
 - スプリングを無効化すると、***タイロッドが水平になり***、サーボモーターからの力が伝わりやすくなります。
 - 足回りに負担が大きくなるため、パーツ破損のリスクが高まります。
@@ -22,6 +22,6 @@
 
 **改造は自己責任で**
 
-[次のセッティングを読む](/blog/steering_settings/others)
+[次のセッティングを読む](/steering_settings/others)
 
-[セッティングTopに戻る](/blog/steering_settings)
+[セッティングTopに戻る](/steering_settings)

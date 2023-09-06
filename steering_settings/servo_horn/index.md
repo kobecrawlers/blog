@@ -1,6 +1,6 @@
-[![ホーム](/blog/logo.002.png "Kobe Crawlers")](/blog)
+[![ホーム](/logo.002.png "Kobe Crawlers")](/)
 
-[セッティング概要に戻る](/blog/steering_settings)
+[セッティング概要に戻る](/steering_settings)
 
 # 大口径タイヤでもよく曲がるミニッツ4x4セッティング
 ## その1 パーツ追加
@@ -9,7 +9,7 @@
 - この記事は、京商ミニッツ4x4のタイヤを大口径に変更したことを前提に書かれています。
 - まずは舵角を改善するための定番パーツを導入します。
 
-![イーグル模型アルミ製ハイトルクサーボホーン](/blog/steering_settings/servo_horn/AL_HT_servo_horn.jpg "イーグル模型アルミ製ハイトルクサーボホーン")
+![イーグル模型アルミ製ハイトルクサーボホーン](/steering_settings/servo_horn/AL_HT_servo_horn.jpg "イーグル模型アルミ製ハイトルクサーボホーン")
 
 - イーグル模型の[アルミ製ハイトルクサーボホーン](https://www.amazon.co.jp/gp/product/B098JQMLYK/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=popcosme-22&linkCode=ur2&linkId=0935516457bc8d6f8d38a64c04a93254&camp=247&creative=1211)です（Amazonが開きます）。
 - 記事を執筆時、612円（30% off）+送料で購入できます。
@@ -24,6 +24,6 @@
 
 **改造は自己責任で**
 
-[次のセッティングを読む](/blog/steering_settings/spring_invalidation)
+[次のセッティングを読む](/steering_settings/spring_invalidation)
 
-[セッティングTopに戻る](/blog/steering_settings)
+[セッティングTopに戻る](/steering_settings)
