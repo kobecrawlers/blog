@@ -1,5 +1,3 @@
-[![ホーム](/logo.002.png "Kobe Crawlers")](/)
-
 [セッティング概要に戻る](/steering_settings)
 
 # 大口径タイヤでもよく曲がるミニッツ4x4セッティング
