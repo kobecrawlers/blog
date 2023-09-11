@@ -39,26 +39,40 @@
 
 <!-- end custom head snippets -->
 
-  </head>
-  <body>
+    <style>
+    .youtube div { position:relative; overflow:hidden; padding-bottom:56.25% }
+    .youtube iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:none }
+    .card { box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; text-align: center; }
+    .card:hover { box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4); }
+    .card img { padding: 16px; width: 80%;  }
+    .container { padding: 2px 16px; text-align: left; }
+    </style>
+    
+</head>
+
+<body>
     <div class="wrapper">
-      <header>
+    <header>
         <p><a href="/"><img src="/logo.002.png" alt="ホーム" title="Kobe Crawlers" /></a></p>
-        <h1><a href="https://kobecrawlers.github.io/">Kobe Crawlers</a></h1>
-        <p>ラジコン初心者の成功と失敗談</p>
-      </header>
-      <section>
+            <h1><a href="https://kobecrawlers.github.io/">Kobe Crawlers</a></h1>
+            <p>ラジコン初心者の成功と失敗談</p>
+    </header>
+    <section>
 
+        <h1 id="特集記事">特集記事</h1>
 
-<h1 id="京商ミニッツ4x4">京商ミニッツ4x4</h1>
+        <div class="card">
+            <a href="/steering_settings">
+                <img src="/steering_settings/steering_settings.jpg" alt="【京商ミニッツ4x4】大口径タイヤでもよく曲がるセッティング">
+            </a>
+            <div class="container">
+                <h4><b>【京商ミニッツ4x4】大口径タイヤでもよく曲がるセッティング</b></h4>
+                <p>ミニッツ4x4のタイヤを、大きく太くソフトなものに交換すると、途端に曲がらなくなりますが、この問題の解決方法を紹介します。</p>
+                <p><a href="/steering_settings">この記事を読む</a></p>
+            </div>
+        </div>
 
-<h2 id="大口径タイヤでもよく曲がるセッティング">大口径タイヤでもよく曲がるセッティング</h2>
-
-<p><a href="/steering_settings"><img src="/steering_settings/steering_settings.jpg" alt="大口径タイヤでもよく曲がるセッティング" title="大口径タイヤでもよく曲がるセッティング" /></a></p>
-<p>ミニッツ4x4のタイヤを、大きく太くソフトなものに交換すると、途端に曲がらなくなりますが、この問題の解決方法を紹介します。</p>
-<p><a href="/steering_settings">この記事を読む</a></p>
-
-<h1 id="走行動画">走行動画</h1>
+<h1 id="走行動画" style="margin-top: 50px">走行動画</h1>
 <div style="position:relative; overflow:hidden; padding-bottom:56.25%">
 <iframe style="position:absolute; top:0; left:0; width:100%; height:100%; border:none;" src="https://www.youtube.com/embed/vVzEfW_LUFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen=""></iframe>
 </div>
