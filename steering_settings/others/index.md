@@ -19,8 +19,6 @@
 
 <p><img src="/icon/warn.png" /><strong> 改造は自己責任で</strong></p>
 
-[【次へ】補足 追加パーツのリスト](/steering_settings/additional_parts)
-
 [![【次へ】補足 追加パーツのリスト](/icon/steer.png)](/steering_settings/additional_parts) [【次へ】補足 追加パーツのリスト](/steering_settings/additional_parts)
 
 [![セッティングTopに戻る](/icon/top.png)](/steering_settings) [セッティングTopに戻る](/steering_settings)
