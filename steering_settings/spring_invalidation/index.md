@@ -18,8 +18,10 @@
 - 足回りに負担が大きくなるため、パーツ破損のリスクが高まります。
 - ユニバーサルジョイントをアルミ製に交換するなどの対策が考えられます。
 
-**改造は自己責任で**
+<p><img src="/icon/warn.png" /><strong> 改造は自己責任で</strong></p>
 
-[【次へ】その3 その他の調整 各種ガタ対策](/steering_settings/others)
+[![【次へ】その3 その他の調整 各種ガタ対策](/icon/steer.png)](/steering_settings/others) [【次へ】その3 その他の調整 各種ガタ対策](/steering_settings/others)
 
-[セッティングTopに戻る](/steering_settings)
+[![セッティングTopに戻る](/icon/top.png)](/steering_settings) [セッティングTopに戻る](/steering_settings)
+
+[![ホーム](/icon/home.png)](/) [ホーム](/)
