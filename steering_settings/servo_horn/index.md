@@ -22,6 +22,6 @@
 
 **改造は自己責任で**
 
-[次のセッティングを読む](/steering_settings/spring_invalidation)
+[【次へ】その2 スプリング無効化](/steering_settings/spring_invalidation)
 
 [セッティングTopに戻る](/steering_settings)

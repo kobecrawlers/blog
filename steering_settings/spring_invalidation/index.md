@@ -20,6 +20,6 @@
 
 **改造は自己責任で**
 
-[次のセッティングを読む](/steering_settings/others)
+[【次へ】その2 スプリング無効化](/steering_settings/others)
 
 [セッティングTopに戻る](/steering_settings)

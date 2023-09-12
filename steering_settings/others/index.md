@@ -19,6 +19,6 @@
 
 **改造は自己責任で**
 
-[追加パーツについて](/steering_settings/additional_parts)
+[【次へ】補足 追加パーツのリスト](/steering_settings/additional_parts)
 
 [セッティングTopに戻る](/steering_settings)
